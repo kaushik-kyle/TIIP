@@ -5,6 +5,6 @@ a image file with the same name as 'name' from the excel sheet ,opens a base tem
 opened image onto the base template image. the text size changes according to the length of the characters.
 path of the excel file , the image files(with the names in the same case as in the excel sheet) and the base template image needs
 to be specified with the coordinates.
-Also the fonts that need to be used must be placed in the same direcotory as .otf files
+Also the fonts that need to be used must be placed in the same direcotory as .ttf files
 
 this can be used to write names of people on certificates if required in large amounts rather than mannually doing it.
