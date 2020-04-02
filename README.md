@@ -1,4 +1,4 @@
-# TIIP
+# Text/Image on Image merger
 a python script to place two strings from an excel spreadsheet and an image on a base template image.
 This python script opens an excel sheet , reads the value from two corresponding columns(name and title). searches and opens for
 a image file with the same name as 'name' from the excel sheet ,opens a base template image and writes both the strings and the
